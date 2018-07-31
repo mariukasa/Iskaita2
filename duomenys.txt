@@ -1,0 +1,3 @@
+dog zinduolis Rudis 20 100 walks
+cat zinduolis Rainys 8 30 walks
+eagle bird Graberis 15 80 flies
